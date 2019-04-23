@@ -12,7 +12,8 @@ function makeNegative(num) {
 //Output: 4
 console.log(Math.abs(-4))
 //4
-
+console.log(Math.abs(4));
+//4 
 
 
 console.log(makeNegative(1))

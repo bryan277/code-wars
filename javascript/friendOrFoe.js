@@ -14,3 +14,5 @@ const friend1 = words.filter(item => item.length === 4);
 }
 
 console.log(friend["Jason", "Yous", "Hans"]);
+
+console.log('test');

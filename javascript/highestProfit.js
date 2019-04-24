@@ -13,7 +13,7 @@ function minMax(arr){
       max = arr[i]
     }
   }
-  return [min,max]; // fix me!
+  return [min,max]; 
 }
 
 

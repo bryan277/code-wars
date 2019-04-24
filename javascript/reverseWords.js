@@ -21,3 +21,9 @@ function reverseWords(str) {
 }
 console.log(reverseWords("This is an example"));
 // sihT si na elpmaxe
+
+// function reverseWords(str) {
+//   // Go for it
+//   //split words into seperate arrays
+//   return str.split("").reverse().join("").split(" ").reverse().join(" ");
+// }
